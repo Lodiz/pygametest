@@ -1,2 +1,3 @@
 # pygametest
-sdsdfgfghd
+
+Me trying out python + pygame
